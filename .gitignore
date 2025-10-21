@@ -30,3 +30,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Environment and Db files ###
+*.env
+*.db
+
+# Compiled Java classes and files
+*.class
