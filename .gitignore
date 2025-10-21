@@ -37,3 +37,7 @@ bin/
 
 # Compiled Java classes and files
 *.class
+CurrencyConverter.jar
+src/test/
+build/
+CurrencyConverter/
